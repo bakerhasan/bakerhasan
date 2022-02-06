@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://github.com/bakerhasan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bakerhasan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakerhasan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?bakerhasan=hsnbd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
